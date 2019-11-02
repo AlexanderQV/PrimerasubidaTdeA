@@ -1,0 +1,15 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.1",
+  "description": "Primer trabajo",
+  "main": "archivo.js",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Quesada aquesadava@unal.edu.co",
+  "license": "ISC"
+}
